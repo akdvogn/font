@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'BMDOHYEON_ttf';
+  src: url('BMDOHYEON_ttf.eot');
+  src: url('BMDOHYEON_ttf.woff2') format('woff2'),
+       url('BMDOHYEON_ttf.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BMDoHyeon';
+  src: url('BMDoHyeon.woff') format('woff'),
+       url('BMDoHyeon.ttf') format('truetype'),
+       url('BMDoHyeon.svg#BMDoHyeon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
